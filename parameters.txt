@@ -6,7 +6,7 @@
             "value": "centralus"
         },
         "ppgName": {
-            "value": "ppg-Anusha"
+            "value": "PPG-Anusha"
         },
         "tagsByResource": {
             "value": {}
